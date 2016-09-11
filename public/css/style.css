@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 /*============================== 
-	- Template Name: FOREVER - Responsive HTML Wedding Template
+	- Template Name: FOREVER - Responsive HTML Template
 	- Author: DoubleEight
 	- Version: 1.02
 	- Website: www.dethemes.com
@@ -2798,9 +2798,9 @@ footer .image-divider.fixed-height{
 }
 
 /* ----------------------------------------------*/
-/* 14.4 Where When Section						 */
+/* 14.4 My Education Section						 */
 /* ----------------------------------------------*/
-#where-when{
+#my-education{
 	padding: 120px 0
 }
 
@@ -2810,6 +2810,14 @@ footer .image-divider.fixed-height{
 
 .border-column{
 	border-left:1px solid #8b8b8b; 
+	border-right:1px solid #8b8b8b
+}
+
+.border-left{
+	border-left:1px solid #8b8b8b; 
+}
+
+.border-right{
 	border-right:1px solid #8b8b8b
 }
 
@@ -2870,9 +2878,9 @@ h2#dont-miss-it-title{
 }
 
 /* ----------------------------------------------*/
-/* 14.7 More Events Section						 */
+/* 14.7 My projects Section						 */
 /* ----------------------------------------------*/
-#more-events{
+#my-projects{
 	padding: 140px 0
 }
 
@@ -3364,13 +3372,19 @@ button.mfp-close, button.mfp-arrow {
 
 
 /* ----------------------------------------------*/
-/* 14.4 Where When Section						 */
+/* 14.4 MY EDUCATION Section						 */
 /* ----------------------------------------------*/
 .border-column{
 	border:none;
 }
 
+.border-left{
+	border-left:1px solid #8b8b8b; 
+}
 
+.border-right{
+	border-right:1px solid #8b8b8b; 
+}
 
 
 

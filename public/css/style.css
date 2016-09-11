@@ -2813,6 +2813,14 @@ footer .image-divider.fixed-height{
 	border-right:1px solid #8b8b8b
 }
 
+.border-left{
+	border-left:1px solid #8b8b8b; 
+}
+
+.border-right{
+	border-right:1px solid #8b8b8b
+}
+
 #map-canvas{
 	height:560px; 
 	width:100%; 
@@ -3370,6 +3378,14 @@ button.mfp-close, button.mfp-arrow {
 	border:none;
 }
 
+.border-left{
+	border-left:1px solid #8b8b8b; 
+}
+
+.border-right{
+	border-right:1px solid #8b8b8b; 
+}
+
 
 
 @media screen and (max-width: 991px) and (orientation : landscape) {
@@ -3565,7 +3581,7 @@ p{
 /* ----------------------------------------------*/
 /* 14.3 Our Story Section						 */
 /* ----------------------------------------------*/
-#about{
+#our-story{
 	padding: 80px 0
 }
 
@@ -3576,7 +3592,7 @@ p{
 /* ----------------------------------------------*/
 /* 14.4 Where When Section						 */
 /* ----------------------------------------------*/
-#my-education{
+#where-when{
 	padding: 80px 0
 }
 
@@ -3609,7 +3625,7 @@ p{
 /* ----------------------------------------------*/
 /* 14.7 More Events Section						 */
 /* ----------------------------------------------*/
-#my-projectss{
+#more-events{
 	padding: 80px 0
 }
 
